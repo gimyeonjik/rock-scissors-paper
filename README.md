@@ -40,7 +40,7 @@
 ### 2주차 활동 내용
 
 **YOLO 버전 별 성능 조사 및 비교**
-https://docs.ultralytics.com/ko/models/yolov10/#comparisons 버전 별 정확도, 실행 시간 등 비교
+(https://docs.ultralytics.com/ko/models/yolov10/#comparisons) 버전 별 정확도, 실행 시간 등 비교
 
 ## 회의 일정
 
