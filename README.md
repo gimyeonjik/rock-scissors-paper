@@ -26,7 +26,7 @@
    - 파일 처리
    - 함수
 
-2. **라이브러리 및 시각화 도구 학습**  
+2. **라이브러리 및 시각화 도구 학습**     
    [Matplotlib Tutorial - 파이썬으로 데이터 시각화하기](https://wikidocs.net/92110) 교재를 활용하여 데이터 처리 및 시각화 도구 학습:
    - NumPy를 이용한 배열 처리
    - 히스토그램, 바 그래프, 박스플롯, 산점도, 선형 그래프 등을 Matplotlib을 사용하여 그리기.
@@ -39,8 +39,8 @@
 
 ### 2주차 활동 내용
 
-**YOLO 버전 별 성능 조사 및 비교**
-(https://docs.ultralytics.com/ko/models/yolov10/#comparisons) 버전 별 정확도, 실행 시간 등 비교
+**YOLO 버전 별 성능 조사 및 비교**<br/>
+- (https://docs.ultralytics.com/ko/models/yolov10/#comparisons) 버전 별 정확도, 실행 시간 등 비교
 
 ## 회의 일정
 
